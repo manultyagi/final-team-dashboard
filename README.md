@@ -158,4 +158,3 @@ http://localhost:3000
 =======
 # team-dashboard
 A Task &amp; Team Management dashboard built using React, Context API, React Router, and Material UI. The application includes user authentication, task CRUD operations, team management, activity logs, comments, filtering, search, and pagination — all saved in LocalStorage.
->>>>>>> be6b7730355dde8465a7c69de99d04c2130ef660
