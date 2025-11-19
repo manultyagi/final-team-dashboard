@@ -77,29 +77,52 @@ All data saved in LocalStorage
 No backend required
 
 ## 📁 Folder Structure
+
 PROJECT_ROOT/
- ├── public/
+ ├── public/ 
+ 
  ├── src/
+ 
  │   ├── api/
+ 
  │   ├── components/
+ 
  │   │   ├── Navbar.jsx
+ 
  │   │   ├── PrivateRoute.jsx
+ 
  │   │   └── TaskForm.jsx
+ 
  │   ├── contexts/
+ 
  │   │   ├── AuthContext.jsx
+ 
  │   │   ├── TaskContext.jsx
+ 
  │   │   └── TeamContext.jsx
+ 
  │   ├── pages/
+ 
  │   │   ├── LoginPage.jsx
+ 
  │   │   ├── DashboardPage.jsx
+ 
  │   │   ├── TaskListPage.jsx
+ 
  │   │   ├── TaskDetailsPage.jsx
+ 
  │   │   └── TeamPage.jsx
+ 
  │   ├── App.js
+ 
  │   ├── index.js
+ 
  │   └── index.css
+ 
  ├── package.json
+ 
  └── README.md
+ 
 
 
 ## Screenshots
