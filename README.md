@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PROJECT TITLE: Team Dashboard
 ## 📌 Project Description
 
