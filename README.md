@@ -2,7 +2,7 @@
 # PROJECT TITLE: Team Dashboard
 ## 📌 Project Description
 
-A brief overview of what your project does. Example:
+A brief overview of what my project does. Example:
 
 The Team Dashboard is a React-based task and team management application that allows users to manage tasks, track progress, and collaborate with team members. This project includes authentication, task CRUD operations, filters, search, comments, activity logs, and LocalStorage persistence.
 
