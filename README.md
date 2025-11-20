@@ -8,7 +8,7 @@ The Team Dashboard is a React-based task and team management application that al
 
 ## 🚀 Features
 
-List all functionalities clearly:
+List of all functionalities:
 
 🔐 Authentication
 
